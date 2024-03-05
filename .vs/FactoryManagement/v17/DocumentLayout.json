@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\data\\factorymanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\data\\factorymanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\controllers\\shiftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\models\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\models\\employeeshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\models\\employeeshift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\views\\shift\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\views\\shift\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\views\\shift\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\views\\shift\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\views\\employee\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\views\\employee\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\factorymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\factorymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\views\\department\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|c:\\users\\ofer\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\factorymanagement\\factorymanagement\\views\\login\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B8DE079-3690-4700-A251-1ED3E9B95F16}|FactoryManagement\\FactoryManagement.csproj|solutionrelative:factorymanagement\\views\\login\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\data\\FactoryManagementDBContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Controllers\\LogInController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\Shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\EmployeeShift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\Deparment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "FactoryManagement\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:52:57.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "FactoryManagement\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:53:13.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogInController.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Controllers\\LogInController.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Controllers\\LogInController.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Controllers\\LogInController.cs",
+              "RelativeToolTip": "FactoryManagement\\Controllers\\LogInController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:08:47.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShiftController.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Controllers\\ShiftController.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Controllers\\ShiftController.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Controllers\\ShiftController.cs",
+              "RelativeToolTip": "FactoryManagement\\Controllers\\ShiftController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:53:49.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactoryManagementDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Data\\FactoryManagementDBContext.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Data\\FactoryManagementDBContext.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Data\\FactoryManagementDBContext.cs",
+              "RelativeToolTip": "FactoryManagement\\Data\\FactoryManagementDBContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:09:11.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Program.cs",
+              "RelativeToolTip": "FactoryManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:09:59.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Models\\User.cs",
+              "RelativeToolTip": "FactoryManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:09:54.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Models\\Shift.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Models\\Shift.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Models\\Shift.cs",
+              "RelativeToolTip": "FactoryManagement\\Models\\Shift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:09:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeShift.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Models\\EmployeeShift.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Models\\EmployeeShift.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Models\\EmployeeShift.cs",
+              "RelativeToolTip": "FactoryManagement\\Models\\EmployeeShift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:09:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "FactoryManagement\\Models\\Employee.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA9wBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:09:38.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "FactoryManagement\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Models\\Department.cs",
+              "RelativeToolTip": "FactoryManagement\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:09:24.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Shift\\Index.cshtml",
+              "RelativeDocumentMoniker": "FactoryManagement\\Views\\Shift\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Shift\\Index.cshtml",
+              "RelativeToolTip": "FactoryManagement\\Views\\Shift\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwCwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T19:13:45.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "FactoryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\appsettings.json",
+              "RelativeToolTip": "FactoryManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-04T17:10:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "FactoryManagement\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "FactoryManagement\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T18:48:27.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Shift\\Add.cshtml",
+              "RelativeDocumentMoniker": "FactoryManagement\\Views\\Shift\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Shift\\Add.cshtml",
+              "RelativeToolTip": "FactoryManagement\\Views\\Shift\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T19:26:02.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Employee\\Search.cshtml",
+              "RelativeDocumentMoniker": "FactoryManagement\\Views\\Employee\\Search.cshtml",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Employee\\Search.cshtml",
+              "RelativeToolTip": "FactoryManagement\\Views\\Employee\\Search.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T19:01:32.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "FactoryManagement\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "FactoryManagement\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T18:54:51.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "FactoryManagement\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "FactoryManagement\\Views\\Department\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T17:52:32.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FactoryManagement",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\FactoryManagement.csproj",
+              "RelativeDocumentMoniker": "FactoryManagement\\FactoryManagement.csproj",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\FactoryManagement.csproj",
+              "RelativeToolTip": "FactoryManagement\\FactoryManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T17:08:29.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "FactoryManagement\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "FactoryManagement\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T19:27:52.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Department\\Add.cshtml",
+              "RelativeDocumentMoniker": "FactoryManagement\\Views\\Department\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\Department\\Add.cshtml",
+              "RelativeToolTip": "FactoryManagement\\Views\\Department\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T17:47:16.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\LogIn\\Index.cshtml",
+              "RelativeDocumentMoniker": "FactoryManagement\\Views\\LogIn\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\LogIn\\Index.cshtml",
+              "RelativeToolTip": "FactoryManagement\\Views\\LogIn\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T19:02:09.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\LogIn\\Home.cshtml",
+              "RelativeDocumentMoniker": "FactoryManagement\\Views\\LogIn\\Home.cshtml",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\FactoryManagement\\FactoryManagement\\Views\\LogIn\\Home.cshtml",
+              "RelativeToolTip": "FactoryManagement\\Views\\LogIn\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T19:13:17.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FactoryManagementDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\data\\FactoryManagementDBContext.cs",
+              "RelativeDocumentMoniker": "..\\project\\project\\data\\FactoryManagementDBContext.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\data\\FactoryManagementDBContext.cs",
+              "RelativeToolTip": "..\\project\\project\\data\\FactoryManagementDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:04:18.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LogInController.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Controllers\\LogInController.cs",
+              "RelativeDocumentMoniker": "..\\project\\project\\Controllers\\LogInController.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Controllers\\LogInController.cs",
+              "RelativeToolTip": "..\\project\\project\\Controllers\\LogInController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:04:18.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\project\\project\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\User.cs",
+              "RelativeToolTip": "..\\project\\project\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:04:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\Shift.cs",
+              "RelativeDocumentMoniker": "..\\project\\project\\Models\\Shift.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\Shift.cs",
+              "RelativeToolTip": "..\\project\\project\\Models\\Shift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:04:17.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeShift.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\EmployeeShift.cs",
+              "RelativeDocumentMoniker": "..\\project\\project\\Models\\EmployeeShift.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\EmployeeShift.cs",
+              "RelativeToolTip": "..\\project\\project\\Models\\EmployeeShift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:04:17.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\project\\project\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\Employee.cs",
+              "RelativeToolTip": "..\\project\\project\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:04:17.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Deparment.cs",
+              "DocumentMoniker": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\Deparment.cs",
+              "RelativeDocumentMoniker": "..\\project\\project\\Models\\Deparment.cs",
+              "ToolTip": "C:\\Users\\Ofer\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05DC \u05E1\u05D9 \u05E1\u05D0\u05E8\u05E4\\project\\project\\Models\\Deparment.cs",
+              "RelativeToolTip": "..\\project\\project\\Models\\Deparment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:04:17.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

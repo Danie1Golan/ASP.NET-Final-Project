@@ -1,0 +1,25 @@
+﻿@{
+    var error = ViewBag.error;
+}
+
+<div>
+    @using (Html.BeginForm("Index", "LogIn", FormMethod.Post))
+    {
+        
+        <label>username:</label>
+    
+    
+    <input name ="username" required type="text" />
+
+        <label>password:</label>
+
+
+    
+    <input name="password" required type="password" /> 
+    <button type = "submit">
+        login
+    </button>
+    }
+    <p style="color: red">@error</p>
+</div>
+

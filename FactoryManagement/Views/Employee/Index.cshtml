@@ -1,0 +1,90 @@
+﻿@model IEnumerable<FactoryManagement.Models.Employee>
+<a href="@Url.Action("Add", "Shift")">
+    Add Shift:
+</a>
+@using (Html.BeginForm("Search", "Employee",FormMethod.Get))
+{
+    <div>
+        <label for="departmentId">Department ID:</label>
+        <input type="number" id="departmentId" name="departmentId" />
+    </div>
+    <div>
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" name="firstName" />
+    </div>
+    <div>
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" name="lastName" />
+    </div>
+    <button type="submit">Search</button>
+
+
+
+}
+<table>
+    <thead>
+        <tr>
+            <th>
+                First Name:
+            </th>
+            <th>
+                Last Name:
+            </th>
+            <th>
+                Department:
+            </th>
+            <th>
+                Shifts:
+            </th>
+            <th>
+                actions:
+            </th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>
+                    @employee.FirstName
+                </td>
+                <td>
+                    @employee.LastName
+                </td>
+                <td>
+                    @employee.Deparment.Name
+                </td>
+                <td>
+                    @foreach (var shift in employee.EmployeeShifts)
+                    {
+                        <p>
+                            @shift.Shift.Date
+                        </p>
+                        <br />
+
+                    }
+                </td>
+                <td>
+
+
+
+                    <a href="@Url.Action("Edit", "Employee", new {id = employee.Id})">
+                        Edit:
+                    </a>
+
+                    <a href="@Url.Action("Delete", "Employee", new {id = employee.Id})">
+                        Delete:
+                    </a>
+
+
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

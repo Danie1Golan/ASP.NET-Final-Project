@@ -1,0 +1,21 @@
+﻿@using (Html.BeginForm("Add", "Shift", FormMethod.Post))
+{
+    <div>
+        <label for="Date">Date:</label>
+        <input type="date" id="Date" name="Date" value="@Model.Date.ToString("yyyy-MM-dd")" />
+    </div>
+    <div>
+        <label for="StartTime">Start Time (hours):</label>
+        <input type="number" id="StartTime" name="StartTime" value="@Model.StartTime" min="0" max="23" />
+    </div>
+    <div>
+        <label for="EndTime">End Time (hours):</label>
+        <input type="number" id="EndTime" name="EndTime" value="@Model.EndTime" min="0" max="23" />
+    </div>
+    <button type="submit">Add Shift</button>
+
+
+}
+
+
+

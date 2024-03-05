@@ -1,0 +1,46 @@
+﻿@model IEnumerable<FactoryManagement.Models.Department>
+<a href="@Url.Action("Add", "Department")">
+    Add:
+</a>
+    <table>
+        <thead>
+            <tr>
+                <th>
+                    Name:
+                </th>
+                <th>
+                    actions:
+                </th>
+            </tr>
+
+        </thead>
+        <tbody>
+        @foreach (var department in Model)
+        {
+           <tr>
+               <td>
+                   @department.Name
+               </td>
+               <td>
+
+         
+
+                    <a href="@Url.Action("Edit", "Department", new {id = department.Id})">
+                       Edit:
+                   </a>
+
+                    <a href="@Url.Action("Delete", "Department", new {id = department.Id})">
+                        Delete:
+                    </a>
+
+
+
+
+               </td>
+           </tr>
+        }
+    </tbody>
+    </table>
+
+
+

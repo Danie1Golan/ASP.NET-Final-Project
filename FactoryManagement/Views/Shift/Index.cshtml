@@ -1,0 +1,64 @@
+﻿@model IEnumerable<FactoryManagement.Models.Shift>
+
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                Date:
+            </th>
+            <th>
+                Start Time:
+            </th>
+            <th>
+                End Time:
+            </th>
+          
+            <th>
+                Employees:
+            </th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var shift in Model)
+        {
+            <tr>
+                <td>
+                    @shift.Date
+                </td>
+                <td>
+                    @shift.StartTime
+                </td>
+                <td>
+                    @shift.EndTime
+                </td>
+                <td>
+                    @foreach (var employee in shift.EmployeeShifts)
+                    {
+
+                        <a href="@Url.Action("Update", "Employee", new {id = employee.EmployeeId})">
+                                @employee.Employee.FirstName - 
+                            @employee.Employee.LastName
+                            </a>
+                       
+                        <br />
+
+                    }
+                </td>
+                <td>
+
+
+
+                  
+
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

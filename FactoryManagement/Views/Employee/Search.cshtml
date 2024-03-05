@@ -1,0 +1,54 @@
+﻿@model IEnumerable<FactoryManagement.Models.Employee>
+<a href="@Url.Action("Index", "Employee")">
+ back
+</a>
+<table>
+    <thead>
+        <tr>
+            <th>
+                First Name:
+            </th>
+            <th>
+                Last Name:
+            </th>
+            <th>
+                Department:
+            </th>
+            <th>
+                Shifts:
+            </th>
+           
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>
+                    @employee.FirstName
+                </td>
+                <td>
+                    @employee.LastName
+                </td>
+                <td>
+                    @employee.Deparment.Name
+                </td>
+                <td>
+                    @foreach (var shift in employee.EmployeeShifts)
+                    {
+                        <p>
+                            @shift.Shift.Date
+                        </p>
+                        <br />
+
+                    }
+                </td>
+               
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

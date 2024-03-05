@@ -1,0 +1,22 @@
+﻿@model FactoryManagement.Models.Department;
+
+
+
+
+<h1>Update department</h1>
+@using (Html.BeginForm("Update", "Department", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.Id)
+    <label>
+        
+        Department name:
+
+
+    </label>
+    <input name="name" value="@Model.Name"/>
+    <button type="submit">
+        Update
+    </button>
+}
+
+

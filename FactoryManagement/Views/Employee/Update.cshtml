@@ -1,0 +1,50 @@
+﻿@model FactoryManagement.Models.Employee;
+
+
+
+
+<h1>Update Employee</h1>
+@using (Html.BeginForm("Update", "Employee", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.Id)
+    <label>
+
+        Employee FirstName:
+
+
+    </label>
+    <input name="firstName" value="@Model.FirstName" />
+
+    <label>
+
+        Employee LastName:
+
+
+    </label>
+    <input name="lastName" value="@Model.LastName" />
+
+    <label>
+
+        Employee Department:
+
+
+    </label>
+    <select name="departmentId">
+        @foreach (var department in ViewBag.departments)
+        {
+            <option value="@department.Id">
+            @department.Name
+        </option>    
+        }
+        
+
+    </select>
+
+
+
+    <button type="submit">
+        Update
+    </button>
+}
+
+
